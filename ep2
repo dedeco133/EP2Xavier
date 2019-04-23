@@ -4,6 +4,7 @@
 #define N 6
 
 //Laís Carraro Leme Cavalheiro - nroUSP = 10687638
+//Júlia Cristina de Brito Passos - nroUSP = 10723840
 
 typedef struct s {
 	int chave;
